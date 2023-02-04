@@ -4,7 +4,7 @@ import Footer from "../components/Footer";
 import About from "../Pages/About/About";
 import Products from "../Pages/Products/Products";
 import Services from "../Pages/Services/Services";
-import Contact from "../Pages/Services/Contact/Contact";
+import Contact from "../Pages/Contact/Contact";
 
 const MainContainer = () => {
   return (
