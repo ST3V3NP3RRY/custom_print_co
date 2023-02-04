@@ -1,5 +1,12 @@
+import ProductCard from "../../components/Reusable/ProductCard";
+
 const Products = () => {
-  return <h1>Products</h1>;
+  return (
+    <section>
+      <h1>Products</h1>
+      <ProductCard />
+    </section>
+  );
 };
 
 export default Products;

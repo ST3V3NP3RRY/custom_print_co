@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="border-{top}-2">
+    <footer className="border-{top}-2 p-8">
       <p>
-        Copyright &copy; The little Custom Print Compnay. All Rights Reserved{" "}
+        Copyright &copy; The Little Custom Print Company. All Rights Reserved
       </p>
     </footer>
   );
