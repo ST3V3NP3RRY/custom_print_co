@@ -1,5 +1,11 @@
+import Banner from "../../components/Reusable/Banner";
+
 const About = () => {
-  return <h1>About</h1>;
+  return (
+    <>
+      <Banner text={"About Us"} />
+    </>
+  );
 };
 
 export default About;

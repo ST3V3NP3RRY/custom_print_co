@@ -2,7 +2,6 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
   min-height: 100vh;
   /* Sets the height to be at least 100% of the viewport */
 }

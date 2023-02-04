@@ -12,14 +12,14 @@ const MainContainer = () => {
       <Router>
         <Header />
         {/* Put something in here */}
-        <main className="">
-          <Routes>
-            <Route path="about" element={<About />} />
-            <Route path="products" element={<Products />} />
-            <Route path="services" element={<Services />} />
-            <Route path="contact" element={<Contact />} />
-          </Routes>
-        </main>
+
+        <Routes>
+          <Route path="about" element={<About />} />
+          <Route path="products" element={<Products />} />
+          <Route path="services" element={<Services />} />
+          <Route path="contact" element={<Contact />} />
+        </Routes>
+
         <Footer />
       </Router>
     </>

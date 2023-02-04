@@ -5,7 +5,7 @@ const ProductCard = () => {
   return (
     // To do make product card responsive on smaller viewports
 
-    <div className="flex h-80">
+    <div className="flex  h-80">
       <img src={ProductPhoto} alt="patterend mug" className="rounded-l-3xl" />
 
       <div className="p-8 bg-slate-200 rounded-r-3xl max-w-sm min-w-sm flex flex-col justify-center">
