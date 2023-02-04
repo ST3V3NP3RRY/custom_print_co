@@ -64,7 +64,7 @@ const Products = () => {
               </div>
               <AiOutlineHeart
                 size="1.75rem"
-                className="hover:bg-slate-300  rounded-full"
+                className="hover:bg-slate-300 rounded-full"
               />
             </div>
           </div>
